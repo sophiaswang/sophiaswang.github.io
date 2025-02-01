@@ -7,7 +7,7 @@ layout: default
   {% for post in paginator.posts %}
     <div class="post-box">
       <a href="{{ site.baseurl }}{{ post.url }}" class="post-link">
-        <article class="post">
+        <article class="post-container">
           <div class="post-thumbnail">
             {% if post.thumbnail %}
               <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
