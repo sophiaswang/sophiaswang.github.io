@@ -65,13 +65,11 @@ Market gaps and opportunities include an app that balances usability and clean d
 <br>
 <br>
 
-**User Research**<br>
+**User Personas**<br>
 
-I conducted interviews with five homeowners with varying levels of gardening experience to learn more about the community needs and pain points existing in this area.
+Common themes that I thought would emerge included feeling uncertain about gardening choices and capabilities and the difficulty of ongoing garden maintenance, especially in regards to finding help within the community. Homeowners could acknowledge the environmental benefits of native plants but were often wary of the additional time, effort, and lengthy onboarding process of official habitat certification programs like the Backyard Habitat Certification Program in the Portland metro area.
 
-Common themes that emerged included feeling uncertain about gardening choices and capabilities and the difficulty of ongoing garden maintenance, especially in regards to finding help within the community. Homeowners acknowledged the environmental benefits of native plants but were often wary of the additional time, effort, and lengthy onboarding process of official habitat certification programs like the Backyard Habitat Certification Program in the Portland metro area.
-
-The following user personas represent shared experiences, concerns, and goals that emerged through my conversations with neighbors.
+The following user personas represent shared experiences, concerns, and goals that I anticipated potential users having.
 
 <img src="..\images\flora\persona1.png" width="100%" margin="20px 0 20px 0">
 <img src="..\images\flora\persona2.png" width="100%" margin="20px 0 20px 0">
@@ -105,5 +103,6 @@ To demonstrate the impact of this app, I illustrated what a typical user might e
 
 To view the full interactive prototype, click on the link below.<br>
 [Hi-Fi Prototype](https://www.figma.com/proto/9igEZKHsCkcmdUVmx09l2S/FloraVision-App?node-id=7-178&t=k5YjRGvFzq8GPfPG-1)
+
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/9igEZKHsCkcmdUVmx09l2S/FloraVision-App?node-id=7-178&embed-host=share" allowfullscreen></iframe>
