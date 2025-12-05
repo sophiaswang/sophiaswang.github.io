@@ -2,7 +2,7 @@
 layout: post
 title: Mobile App Design
 categories: Projects
-thumbnail: images/flora/florascreens.png
+thumbnail: 
 ---
 
 ## Case Study: Floravision App Design
@@ -106,3 +106,4 @@ To view the full interactive prototype, click on the link below.<br>
 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/9igEZKHsCkcmdUVmx09l2S/FloraVision-App?node-id=7-178&embed-host=share" allowfullscreen></iframe>
+
